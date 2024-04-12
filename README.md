@@ -1,0 +1,2 @@
+# ConcurrentMemoryPool
+基于tcmalloc实现得高并发内存池
