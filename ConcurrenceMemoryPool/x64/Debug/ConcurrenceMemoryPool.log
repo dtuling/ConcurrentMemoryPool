@@ -1,0 +1,70 @@
+﻿  Benchmark.cpp
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(202,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(246,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(46,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(46,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(46,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(46,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(46,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(46,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): message : 请考虑在格式字符串中使用“%llu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): message : 请考虑在格式字符串中使用“%Iu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(49,9): message : 请考虑在格式字符串中使用“%I64u”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): message : 请考虑在格式字符串中使用“%llu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): message : 请考虑在格式字符串中使用“%Iu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(52,9): message : 请考虑在格式字符串中使用“%I64u”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): message : 请考虑在格式字符串中使用“%llu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): message : 请考虑在格式字符串中使用“%Iu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(100,9): message : 请考虑在格式字符串中使用“%I64u”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): message : 请考虑在格式字符串中使用“%llu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): message : 请考虑在格式字符串中使用“%Iu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(103,9): message : 请考虑在格式字符串中使用“%I64u”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): message : 请考虑在格式字符串中使用“%zu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): message : 请考虑在格式字符串中使用“%llu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): message : 请考虑在格式字符串中使用“%Iu”
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Benchmark.cpp(106,9): message : 请考虑在格式字符串中使用“%I64u”
+  CentralCache.cpp
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(202,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(246,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PageCache.cpp
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(202,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(246,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(37,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ThreadCache.cpp
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(202,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Z:\gitee-study\C++\ConcurrenceMemoryPool\Common.h(246,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UtilTest.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+Benchmark.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  ConcurrenceMemoryPool.vcxproj -> Z:\gitee-study\C++\ConcurrenceMemoryPool\x64\Debug\ConcurrenceMemoryPool.exe

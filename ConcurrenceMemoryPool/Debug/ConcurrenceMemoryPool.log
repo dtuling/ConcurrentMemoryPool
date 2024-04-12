@@ -1,0 +1,17 @@
+﻿  Benchmark.cpp
+  CentralCache.cpp
+  PageCache.cpp
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(19,24): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(31,26): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(55,26): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(60,27): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(94,38): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(126,39): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(153,39): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(179,23): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+Z:\gitee-study\C++\ConcurrenceMemoryPool\PageCache.cpp(180,52): warning C4244: “参数”: 从“PAGE_ID”转换到“TCMalloc_PageMap1<19>::Number”，可能丢失数据
+  ThreadCache.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+Benchmark.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  ConcurrenceMemoryPool.vcxproj -> Z:\gitee-study\C++\ConcurrenceMemoryPool\Debug\ConcurrenceMemoryPool.exe
